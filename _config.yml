@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: egg-00's blog
 email: ytaiji2@gmail.com
-description: egg-00의 블로그 입니다.
+description: egg-00의 블로그 입니다. 일을 하다가 혹은 이것저것 만져보다가 알게 된 것을 남길 생각입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
